@@ -1,3 +1,3 @@
 Welcome to index.md page, using gh-pages branch.
 
-[About]( contact )
+[About](contact.md)
